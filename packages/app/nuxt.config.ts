@@ -8,5 +8,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     'shadcn-nuxt',
     '@nuxt/content',
+    '@nuxt/fonts',
+    '@nuxt/icon'
   ]
 })

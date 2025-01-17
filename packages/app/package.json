@@ -25,6 +25,8 @@
   "devDependencies": {
     "@nuxt/content": "^3.0.0",
     "@nuxt/eslint": "^0.7.5",
+    "@nuxt/fonts": "^0.10.3",
+    "@nuxt/icon": "^1.10.3",
     "@nuxtjs/tailwindcss": "^6.13.1",
     "@typescript-eslint/eslint-plugin": "^8.20.0",
     "@typescript-eslint/parser": "^8.20.0",

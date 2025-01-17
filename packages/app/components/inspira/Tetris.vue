@@ -8,7 +8,7 @@
         <div v-for="(row, rowIndex) in grid" :key="rowIndex"
           class="grid flex-1 auto-cols-[--cell] grid-flow-col -space-x-px">
           <div v-for="(cell, cellIndex) in row" :key="cellIndex" :style="{
-            '--border-color': theme[100],
+            '--border-color': theme[300],
             '--dark-border-color': theme[900],
           }" class="relative border border-[--border-color] dark:border-[--dark-border-color]">
             <div :style="{
