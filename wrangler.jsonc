@@ -1,0 +1,14 @@
+{
+  // The site is fully prerendered by `pnpm generate`, so there is no Worker
+  // script to run — this uploads .output/public as static assets and nothing else.
+  // "name" must match the Worker the build is connected to, or the deploy
+  // silently creates a second, unrouted Worker.
+  "name": "buildahouse",
+  "compatibility_date": "2026-07-27",
+  "assets": {
+    "directory": "./.output/public",
+    // Nuxt writes a real 404.html; without this, unmatched paths get a bare
+    // Cloudflare 404 instead of the site's own page.
+    "not_found_handling": "404-page"
+  }
+}
