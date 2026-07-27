@@ -1,4 +1,17 @@
+---
+title: Glossary
+description: What the words mean — the Kreol and French terms used on every Mauritian building site.
+phase: 5
+order: 52
+tags: reference, kreol, materials
+lastVerified: 2026-07-27
+---
+
 # Glossary
+
+Your mason, your contractor, and your quotations will use these words, not the English ones. Being able to follow a site conversation is the cheapest quality control you have.
+
+There is no checklist on this page — it is a reference. Come back to it while reading [[construction-starter-guide]] and [[construction-phases]].
 
 ## Structural & Foundation Terms
 
