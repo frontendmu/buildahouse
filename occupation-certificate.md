@@ -10,25 +10,38 @@ lastVerified: 2026-07-27
 
 The house is finished, but the project is not. These steps make it legally occupiable, insurable, and sellable.
 
-## 1. Occupation Certificate
+## 1. Compliance Certificate, then Occupation Certificate
 
-Under the **Building Control Act**, you must obtain an **Occupation Certificate** from your local authority before occupying the building. Building without one, or occupying without one, is a breach — and it will surface later when you try to sell, refinance, or insure.
+This is **two steps, not one**, and there is a deadline between them that catches people out.
 
-**How it generally works:**
-- Apply to the local authority (the same one that issued your BLP) once construction is complete.
-- The local authority inspects the building against the **approved plans and the BLP conditions**.
-- Certificates or clearances from other authorities may be required — commonly Fire Services, and confirmation of utility connections.
-- The certificate is issued if the building complies.
+**Section 19 of the Building Control Act 2012:** *"where a building has been erected after obtaining a permit, that building shall not be inhabited, used or occupied unless a compliance certificate has been issued by the local authority which issued the permit."*
 
-⚠️ **[VERIFY]** — Confirm the current application form, document list, fees, and processing time with your local authority, and check the official BLP/Building Control guidance on the [Local Government Portal](http://la.govmu.org).
+**The sequence:**
 
-**This is where unauthorised changes come back to bite you.** If the house as built differs from the approved plans — an extra room, a covered terrace, a different setback — the certificate can be refused until it is regularised. Regularising afterwards is far harder than getting a variation approved during the build. See [[permit]] and [[contractor]].
+1. **Inform the local authority when construction starts.** A letter format is provided in the [BLP Guide](https://la.govmu.org/downloads/Blp%20Guide%20Updated.pdf) (page 60). This is an obligation, not a courtesy.
+2. **Inform the local authority when construction is complete** (format at page 61 of the same guide).
+3. **Inspectors visit the site** and check the building has been *"completed within acceptable norms in line with approved plans"*.
+4. **The compliance certificate is issued** — the guide states it *"should be issued within 5 working days of the application"*.
+5. **Apply for the Occupation Certificate within 5 days of obtaining the compliance certificate**, and before occupying or using the building.
 
+🚨 **You may not legally inhabit, use, or occupy the house until this is done.** Plan your move-in date around it, and do not let a landlord's notice period or a lease ending force you into occupying early.
+
+⚠️ Note the compliance certificate form in the guide is headed *"for buildings above 150m²"*. Confirm with **your own local authority** what applies to a house below that area — practice varies between municipal and district councils.
+
+⚠️ **[VERIFY]** — Fees for the compliance and occupation certificates are not stated in the BLP guide. Confirm current fees and the exact document list with the local authority that issued your BLP.
+
+**Also note: your BLP is only valid for 2 years from the date of issue** (Section 18(1), Building Control Act 2012). If your build stalls, check the expiry — see [[permit]].
+
+**This is where unauthorised changes come back to bite you.** The inspection is explicitly against the **approved plans**. If the house as built differs — an extra room, a covered terrace, a reduced setback — the certificate can be refused until it is regularised. Regularising afterwards is far harder than getting a variation approved during the build. See [[permit]] and [[contractor]].
+
+- [ ] Local authority informed at **start** of construction (letter format, BLP Guide p.60)
+- [ ] Local authority informed at **completion** of construction (format, BLP Guide p.61)
 - [ ] House as built matches the approved plans, or every deviation was formally approved during construction
-- [ ] Application submitted to the local authority
-- [ ] Required clearances obtained
-- [ ] Inspection passed and Occupation Certificate received
-- [ ] **Original kept safely — you will need it to sell, refinance, or insure**
+- [ ] Site inspection passed and **compliance certificate** received
+- [ ] **Occupation Certificate applied for within 5 days** of the compliance certificate
+- [ ] Occupation Certificate received — **before** moving in
+- [ ] BLP still within its 2-year validity, or extended
+- [ ] **Originals kept safely — you will need them to sell, refinance, or insure**
 
 ## 2. Utility Connections
 
