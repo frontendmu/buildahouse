@@ -14,6 +14,12 @@ pnpm generate   # static site into .output/public
 
 If content edits don't show up, the parsed-content cache is stale: `rm -rf .nuxt .data .output`.
 
+## Deploying
+
+Static output, so any host works. On Cloudflare: build command `pnpm generate`, output directory `.output/public`.
+
+The build compiles `better-sqlite3` from source, which pnpm only does for packages listed in `pnpm-workspace.yaml`. Cloudflare's build image is a few pnpm versions behind, so that file names the packages twice — see the comments there before tidying it up.
+
 ## Guides, in build order
 
 | Phase | Guide | Covers |

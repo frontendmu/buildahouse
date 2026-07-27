@@ -1,7 +1,21 @@
+# Not a monorepo. This file exists for the settings below, but pnpm < 10.x
+# rejects it outright without a packages field ("packages field missing or
+# empty"), which is what broke the first Cloudflare build.
+packages:
+  - '.'
+
+# Native build, needed by @nuxt/content for its local content database.
+# Both spellings on purpose: allowBuilds landed in pnpm 10.26, and Cloudflare's
+# build image ships 10.11.1, where the older key is the one that's read. Without
+# one of them the native module is silently skipped and `nuxt generate` dies in
+# getLocalDatabase. Drop onlyBuiltDependencies once the build image moves past 10.26.
 allowBuilds:
-  # Native build, needed by @nuxt/content for its local content database.
   better-sqlite3: true
   esbuild: true
+onlyBuiltDependencies:
+  - better-sqlite3
+  - esbuild
+
 minimumReleaseAgeExclude:
   - '@nuxt/kit@4.5.1'
   - '@nuxt/nitro-server@4.5.1'
