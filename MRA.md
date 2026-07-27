@@ -3,74 +3,128 @@ title: Government Schemes, Refunds and Grants
 phase: 2
 order: 21
 tags: finance, mra, schemes
-lastVerified: 2025-02-28
+lastVerified: 2026-07-27
 ---
 
-> ⚠️ **This page needs re-verification.** The figures below cite Budget 2024/25 and a Housing Loan Relief Scheme extension that ran to June 2025. Scheme amounts, ceilings, and end dates change with each annual Budget. **Confirm everything here against the [MRA](https://www.mra.mu) and the current Budget before relying on it.**
+# Government Schemes, Refunds and Grants
 
-# Buying plot of land
+> ⚠️ **Scheme amounts, ceilings, and deadlines change with every annual Budget.** Everything here was checked against official sources on **27 July 2026**. Confirm your own eligibility with the [MRA](https://www.mra.mu) or the relevant authority before you rely on any figure — and note the several **expired** items below, which are kept only so you can recognise out-of-date advice elsewhere.
 
-## **Home Ownership Refund Scheme**
+## Summary
 
-This scheme consists of refunding 5% (not more than Rs 500,000) of the declared value of the acquisition of a house, apartment or bare land to build a residential unit.
+| Scheme | Status (27 Jul 2026) | Maximum benefit |
+| --- | --- | --- |
+| Housing Loan Relief Scheme | **Open** — extended to June 2027 | Rs 667/month, then Rs 333/month |
+| VAT refund on residential building | **Closed to new builds** — see below | Rs 300,000 |
+| Roof slab / building materials grant | **Open** (income-tested) | Rs 100,000 |
+| First-time buyer registration duty exemption | **[VERIFY]** | 5% of first Rs 5m |
+| Home Ownership Refund Scheme | **[VERIFY] — likely expired** | 5%, max Rs 500,000 |
+| Home Loan Payment Scheme | **[VERIFY] — likely expired** | 5%, max Rs 500,000 |
 
-The amount received must be reimbursed should the property be sold within the same year of purchase.
+---
 
-https://www.govmu.org/EN/newsgov/SitePages/Budget-2024-25--Decent-Housing-For-All.aspx
+# Buying a plot of land
 
-## **First time buyer scheme**
+## First-time buyer — registration duty exemption
 
-First time buyers will be exempt of registration duty (5%) to the first Rs 5 million of the buying price
+First-time buyers are exempt from registration duty (5%) on the first **Rs 5 million** of the purchase price, for bare land to build a residential unit or for a residential property.
 
-https://www.mra.mu/download/TheRegistrationDutyAct.pdf
+⚠️ **[VERIFY]** — The exemption ceiling has been revised in past Budgets. Both source links previously cited here are now dead (`mra.mu/download/TheRegistrationDutyAct.pdf` returns 404). Confirm the **current ceiling and conditions** with the [Registrar-General's Department](https://registrar.govmu.org) or your notary before budgeting for this.
 
-https://registrar.govmu.org/Pages/Downloadable%20Forms/Downloadable-Forms.aspx
+Your notary handles this exemption as part of the transfer — raise it with them early. See [[land]].
 
-# Buying/construction of a house
+## Home Ownership Refund Scheme
 
-## **Home Ownership Refund Scheme** (in case of buying a house)
+A refund of **5% of the declared value** (capped at **Rs 500,000**) of the acquisition of a house, apartment, or bare land on which to build a residential unit. The amount must be repaid if the property is sold within the same year of purchase.
 
-This scheme consists of refunding 5% (not more than Rs 500,000) of the declared value of the acquisition of a house, apartment or bare land to build a residential unit.
+⚠️ **[VERIFY] — this scheme has probably expired.** It was announced in Budget 2024/25 and the source page previously cited here no longer carries the scheme details. It was a time-limited measure tied to deeds registered within a defined window. **Do not budget for this without written confirmation** from the Registrar-General's Department that it is still open and that your purchase date qualifies.
 
-The amount received must be reimbursed should the property be sold within the same year of purchase.
+---
 
-https://www.govmu.org/EN/newsgov/SitePages/Budget-2024-25--Decent-Housing-For-All.aspx
+# Buying or constructing a house
 
-## **Loan repayment schemes** (home loan only for construction of house or buying a property)
+## Housing Loan Relief Scheme ✅ Open
 
-5% of home loans for the construction of a residential unit will be refunded to the buyer (up to Rs 500,000)
+A monthly allowance paid by the MRA to an individual who has contracted a **secured housing loan not exceeding Rs 5 million**.
 
-https://registrar.govmu.org/Communique/Press%20Article-Home%20Ownership%20and%20Home%20Loan%20Payment%20Schemes.pdf
+Following Budget 2025/2026, the scheme was extended to **June 2027**, on a tapering basis:
 
-## **Housing Loan Relief Scheme**
+| Period | Monthly allowance |
+| --- | --- |
+| July 2025 – June 2026 | **Rs 667** |
+| July 2026 – June 2027 | **Rs 333** |
 
-In the Budget Speech 2023/2024, the Government of the Republic of Mauritius announced that a monthly allowance of Rs 1,000 will be paid for the months of July 2023 to June 2024 to an eligible individual who has contracted a secured housing loan not exceeding Rs 5 million. The MRA has been entrusted with the responsibility to pay the allowance.
+Key conditions:
+- Secured housing loan **not exceeding Rs 5 million** from a qualifying lender
+- For the purchase, construction, or extension of a house in Mauritius
+- Loan repayment **exceeding Rs 1,000** in the month preceding payment
+- **No income limit**
+- **No application is entertained after 31 December 2027**
 
-**Extension of the Housing Loan Relief Scheme**
+Note the allowance is now materially lower than the Rs 1,000/month figure widely quoted from Budget 2023/24 — that rate applied to July 2023–June 2024 only.
 
-Following the enactment of Finance (Miscellaneous Provisions) Act 2024, the Housing Loan Relief Scheme has been extended for the period 1 July 2024 to June 2025.
+Source: [MRA — Housing Loan Relief Scheme](https://www.mra.mu/eservices1/financial-assistance/housing-loan-relief-scheme)
 
-https://www.mra.mu/eservices1/financial-assistance/housing-loan-relief-scheme
+## Home Loan Payment Scheme
 
-# Construction of a house
+A refund of **5%** of a home loan contracted for the construction of a residential unit, up to **Rs 500,000**.
 
-## **Government grant for casting of roof slabs and purchase of building materials**
+⚠️ **[VERIFY] — likely expired.** The press communiqué previously cited here is no longer available at that URL. Like the Home Ownership Refund Scheme, this was a time-limited Budget measure. Confirm with the Registrar-General's Department before counting on it.
 
-It is worth mentioning that in Mauritius almost 89% of the population is owner of a residential property, be it a housing unit or a residential plot of land. Hence, Government encourages self-help construction of housing units to low income families who already own a plot of land and are having difficulties to construct a concrete housing unit. These families are financially assisted through a grant scheme either for the casting of roof slabs to complete their construction or for the purchase of building materials to start their construction.
+---
 
-As from July 2019, the income eligibility criteria for roof slab grant and purchase of building materials have been reviewed as follows:
+# Constructing a house
 
-| **Existing Housing Schemes** | **Household Income Eligibility** | **Amount** | **Remarks** |
-| --- | --- | --- | --- |
-| Roof Slab Grant / Purchase of Building Materials | ≤ Rs 10,000 | Maximum one-off cash grant of Rs 100,000 | (i) Households who own a plot of land but cannot afford to complete construction of their house which has reached up to the beam level. The grant is for the casting of roof slab for an area of up to 100 m². Allowable building plan area may reach up to 150 m². |
-|  |  |  | (ii) Households who own a plot of land but cannot afford to start construction of a housing unit of up to 100 m². The grant is for purchase of building materials to start construction. |
-|  | > Rs 10,000 - ≤ Rs 15,000 | Maximum one-off cash grant of Rs 70,000 | Same conditions as above. |
-|  | > Rs 15,000 - ≤ Rs 20,000 | Maximum one-off cash grant of Rs 50,000 | Same conditions as above. |
+## Refund of VAT on a residential building ⚠️ Closed to new construction
 
-https://housing.govmu.org/Pages/Services/Government-grant-for-casting-of-roof-slabs-and-purchases-of-buiding-materials.aspx
+A refund of VAT on the construction of a residential building, or the purchase of a residential apartment or house from a property developer.
 
-## **Refund of VAT on Residential Building / Apartment or House**
+**Conditions as published by the MRA:**
 
-Any person who satisfies the conditions set by the MRA may make an application for a refund of VAT on the construction of a residential building or the purchase of a residential apartment or house from a property developer.
+| Condition | Limit |
+| --- | --- |
+| Maximum refund (applicant and spouse combined) | **Rs 300,000** |
+| Floor area, per the approved BLP | must not exceed **1,800 ft²** |
+| Construction cost or apartment purchase price | must not exceed **Rs 3 million** |
+| Annual net income of applicant and spouse combined | must not exceed **Rs 1 million** |
+| Minimum claim per quarter | Rs 25,000 (exceptions for final claims) |
+| Claim deadline | within **12 months of the VAT invoice or receipt** |
 
-https://www.mra.mu/eservices1/vat-eservices/application-for-refund-of-vat-residential
+🚨 **The qualifying construction window has closed.** The MRA states the construction must have been *"started and completed in the years 2014 to 2024 and in the period of 6 months ending 30 June 2025"*. **A house you start building now does not qualify** unless a later Budget reopens the scheme.
+
+Two things follow for anyone planning a build today:
+1. **Do not include this Rs 300,000 in your budget** — see [[finance]].
+2. **Do not let anyone design your house to 1,800 ft² for VAT reasons alone.** That constraint no longer buys you anything unless the scheme reopens. Discuss it with your architect — see [[Architect]].
+
+⚠️ **[VERIFY] before each release** — if a Budget reopens or replaces this scheme, the floor area limit becomes a genuine design constraint again and this page must be updated immediately.
+
+Source: [MRA — Application for Refund of VAT (Residential)](https://www.mra.mu/eservices1/vat-eservices/application-for-refund-of-vat-residential)
+
+## Government grant for casting of roof slabs and purchase of building materials ✅ Open
+
+Government assists low-income families who already own a plot of land but cannot afford to build or to complete a concrete housing unit — either a grant for **casting the roof slab**, or a grant to **buy building materials** to start construction.
+
+Income thresholds and amounts, as reviewed in July 2019 and still published by the Ministry of Housing and Lands:
+
+| Household income | Maximum one-off cash grant |
+| --- | --- |
+| ≤ Rs 10,000 | **Rs 100,000** |
+| > Rs 10,000 – ≤ Rs 15,000 | **Rs 70,000** |
+| > Rs 15,000 – ≤ Rs 20,000 | **Rs 50,000** |
+
+**Conditions:**
+- **Roof slab grant** — for households who own a plot of land but cannot afford to complete a house that has reached **beam level**. The grant covers casting a roof slab of up to **100 m²**; allowable building plan area may reach up to **150 m²**.
+- **Building materials grant** — for households who own a plot of land but cannot afford to start construction of a housing unit of up to **100 m²**.
+- Applications are made to **NHDC Ltd** on the prescribed form.
+
+⚠️ The income bands date from July 2019 and have not been revised since. Confirm current thresholds with the Ministry of Housing and Lands or NHDC before applying.
+
+If you are applying for the roof slab grant, note the timing: the grant relates to the roof slab casting stage in [[construction-phases]], so apply well before you reach it.
+
+Source: [Ministry of Housing and Lands — roof slab and building materials grant](https://housing.govmu.org/Pages/Services/Government-grant-for-casting-of-roof-slabs-and-purchases-of-buiding-materials.aspx)
+
+---
+
+## ⚠️ Important Note
+
+🚨 **Check eligibility conditions before your architect finalises the plans, not after.** Several schemes turn on floor area, property value, or income — limits you cannot retrofit once the plans are approved and the house is built. See [[Architect]] and [[finance]].
