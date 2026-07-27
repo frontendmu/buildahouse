@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    /* Anchor links land below the sticky header rather than under it. */
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    @apply bg-stone-50 text-stone-800 antialiased;
+  }
+}
+
+@layer components {
+  /* Blockquotes carrying a warning emoji are the site's most important
+     content — stale scheme figures cost readers money. Make them look it. */
+  .guide-body blockquote {
+    @apply my-6 rounded-r-lg border-l-4 border-amber-400 bg-amber-50 px-5 py-4 not-italic;
+  }
+
+  .guide-body blockquote p {
+    @apply my-1 text-[15px] text-amber-950;
+  }
+
+  .guide-body table {
+    @apply my-6 block w-full overflow-x-auto text-sm;
+  }
+
+  .guide-body th {
+    @apply bg-stone-100 px-3 py-2 text-left font-semibold text-stone-700;
+  }
+
+  .guide-body td {
+    @apply border-t border-stone-200 px-3 py-2 align-top;
+  }
+}
+
+/* Overrides for @tailwindcss/typography's own `prose` rules. Kept outside
+   @layer so they aren't purged and reliably win on specificity. */
+
+/* Each guide's markdown opens with `# Title`, which the page header already
+   renders. Hide the duplicate rather than stripping it from the files, so they
+   stay correct when read as plain markdown on GitHub. Descendant selector, not
+   a child one: ContentRenderer wraps the body in its own div. */
+.guide-body h1:first-child {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Typography wraps blockquote text in decorative quote marks; these blocks are
+   warnings, not quotations. */
+.guide-body blockquote p::before,
+.guide-body blockquote p::after {
+  content: none;
+}
+
+/* Headings carry a self-link anchor. Keep them looking like headings. */
+.guide-body :is(h2, h3, h4) > a {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+.guide-body :is(h2, h3, h4) > a:hover {
+  color: #047857;
+}
