@@ -1,3 +1,11 @@
+---
+title: Building and Land Use Permit (BLP)
+phase: 4
+order: 41
+tags: legal, permit
+lastVerified: 2025-02-28
+---
+
 # Building and Land Use Permit (BLP) Guide – Mauritius
 
 This guide provides a step-by-step overview of the **Building and Land Use Permit (BLP)** application process in Mauritius. For full details, refer to the official guide: [BLP Guide](https://la.govmu.org/downloads/Blp%20Guide%20Updated.pdf).

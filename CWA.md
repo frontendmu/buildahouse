@@ -1,5 +1,9 @@
 ---
-tags: utilities
+title: CWA — Water
+phase: 6
+order: 61
+tags: utilities, water
+lastVerified: 2025-02-28
 ---
 
 ## CWA - Domestic New Supply

@@ -1,5 +1,9 @@
 ---
-tags: utilities
+title: CEB — Electricity
+phase: 6
+order: 60
+tags: utilities, electricity
+lastVerified: 2025-02-28
 ---
 
 ## CEB - Residential supply

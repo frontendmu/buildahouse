@@ -1,3 +1,13 @@
+---
+title: Government Schemes, Refunds and Grants
+phase: 2
+order: 21
+tags: finance, mra, schemes
+lastVerified: 2025-02-28
+---
+
+> ⚠️ **This page needs re-verification.** The figures below cite Budget 2024/25 and a Housing Loan Relief Scheme extension that ran to June 2025. Scheme amounts, ceilings, and end dates change with each annual Budget. **Confirm everything here against the [MRA](https://www.mra.mu) and the current Budget before relying on it.**
+
 # Buying plot of land
 
 ## **Home Ownership Refund Scheme**

@@ -1,3 +1,11 @@
+---
+title: Architect
+phase: 3
+order: 31
+tags: design, architect, professionals
+lastVerified: 2025-02-28
+---
+
 # Architect Guide
 
 ## 1. Role of an Architect
