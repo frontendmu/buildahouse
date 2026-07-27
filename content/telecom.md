@@ -1,5 +1,6 @@
 ---
 title: Internet and Telephone
+description: Fibre coverage, and the conduit and cabling to run while the walls are still open.
 phase: 6
 order: 63
 tags: utilities, telecom, internet
@@ -28,7 +29,7 @@ Do this while the walls are still open. Once plastering is done, every change me
 - **Plan for Wi-Fi coverage, not just one router.** Concrete walls and slabs in Mauritian construction block Wi-Fi badly. A data point plus power on each floor or wing lets you add access points later.
 - **TV points** — plan aerial or satellite cabling if you want it.
 - **Do not run data cables in the same conduit as power cables.**
-- Coordinate all of this with the electrical layout your architect prepares — [[Architect]] notes that socket count and placement may be a separate cost item.
+- Coordinate all of this with the electrical layout your architect prepares — [[architect]] notes that socket count and placement may be a separate cost item.
 
 ## 3. Applying for Service
 

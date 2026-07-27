@@ -1,5 +1,6 @@
 ---
 title: Costing and the Quantity Surveyor
+description: Cost estimation, the Bill of Quantities as your real cost control, and where budgets break.
 phase: 3
 order: 30
 tags: cost, quantity-surveyor, bod
@@ -49,7 +50,7 @@ When someone quotes you a rate per square foot, always ask: **what does it inclu
 - **Finishes.** Tiles, sanitary ware, kitchen, doors, and windows have an enormous price range and are chosen late, when enthusiasm is high and discipline is low. Set a finishes budget early and hold it.
 - **Variations.** Small changes during the build, each individually reasonable. See [[contractor]] on written variation orders.
 - **Forgotten externals.** Boundary wall, gate, driveway, water tank and pump, landscaping. See [[finance]].
-- **Over-specified structure.** As noted in [[Architect]], unnecessarily high-end structural materials inflate cost without improving the house.
+- **Over-specified structure.** As noted in [[architect]], unnecessarily high-end structural materials inflate cost without improving the house.
 - **Material price movement** on a long build.
 
 ## 5. Buying Materials Yourself
@@ -70,7 +71,7 @@ If you do supply materials, make the split explicit item by item in the contract
 - [ ] All contractors priced on the same BOQ
 - [ ] Finishes budget set, item by item, with a ceiling
 - [ ] Externals costed: boundary wall, gate, driveway, tank, pump, landscaping
-- [ ] Utility connection costs included — see [[CEB]], [[CWA]], [[WMA]]
+- [ ] Utility connection costs included — see [[ceb]], [[cwa]], [[wma]]
 - [ ] Contingency of 10–15% held separately — see [[finance]]
 - [ ] Owner-supplied vs contractor-supplied materials split written into the contract
 - [ ] Agreed rates in place for pricing variations

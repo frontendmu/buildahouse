@@ -1,9 +1,10 @@
 ---
 title: CEB — Electricity
+description: Documents needed for a new residential electricity connection, and getting a cost quotation.
 phase: 6
 order: 60
 tags: utilities, electricity
-lastVerified: 2025-02-28
+lastVerified: 2026-07-27
 ---
 
 ## CEB - Residential supply

@@ -1,9 +1,10 @@
 ---
 title: Building and Land Use Permit (BLP)
+description: 'The Building and Land Use Permit: forms, drawings, who must sign them, and the timelines.'
 phase: 4
 order: 41
 tags: legal, permit
-lastVerified: 2025-02-28
+lastVerified: 2026-07-27
 ---
 
 # Building and Land Use Permit (BLP) Guide – Mauritius
@@ -54,7 +55,7 @@ There are **five types of application forms**:
 - **Proof of Ownership** (title deed, lease agreement)
 - **ID Card & Contact Details** of applicant (or passport pages for non-citizens)
 - **Power of Attorney**, where applicable
-- **Clearances** from CWA, CEB, Fire Services, Environment, and other relevant authorities (if required) — see [[CWA]], [[CEB]], [[WMA]]
+- **Clearances** from CWA, CEB, Fire Services, Environment, and other relevant authorities (if required) — see [[cwa]], [[ceb]], [[wma]]
 - **Clearances** from the Forestry Service, Road Development Authority, and Department of Civil Aviation, where applicable
 
 **Total floor area must be indicated on the site plan**, and the floor area of each level on its respective floor plan.

@@ -1,9 +1,10 @@
 ---
 title: Architect
+description: Choosing an architect, what their fees cover, and how to brief them on your vision.
 phase: 3
 order: 31
 tags: design, architect, professionals
-lastVerified: 2025-02-28
+lastVerified: 2026-07-27
 ---
 
 # Architect Guide
@@ -33,7 +34,7 @@ Architectural services come at a cost, and it's important to **understand what i
 ## 4. The Architectural Design Process
 A well-structured design process is key to a smooth home-building journey.  
 
-- **Check the MRA scheme** before proceeding with any architectural plans – Some conditions must be met to qualify for government refunds. See [[MRA]].
+- **Check the MRA scheme** before proceeding with any architectural plans – Some conditions must be met to qualify for government refunds. See [[mra]].
   - ⚠️ **The VAT refund's 1,800 ft² limit no longer applies to new construction** — that scheme closed to builds completed after 30 June 2025. Do not shrink your house to 1,800 ft² for VAT reasons unless a new Budget reopens it. Confirm the current position before letting any scheme constrain the design.
 - **Know your floor area thresholds** – Above **150 m²**, all drawings must be designed and signed by a registered Professional Architect. A registered Civil/Structural Engineer must also sign where beams or slabs span 5.0 m or more, cantilever 1.2 m or more, the building is above 2 levels including basements, or the land's natural slope is steeper than 1:20. See [[permit]].
 - **Conduct site visits** – Analyzing the land before finalizing the plan can help avoid issues later.

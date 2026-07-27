@@ -1,5 +1,6 @@
 ---
 title: Buying the Land
+description: Zoning, your own notary and the title search, the survey plan, excision, and the soil test.
 phase: 1
 order: 10
 tags: land, legal, notary
@@ -14,9 +15,9 @@ Everything else depends on this step. A cheap plot with a bad title, no access r
 
 - **Confirm the zoning** — Ask the Land Use and Planning Department of the local authority (municipal or district council) whether a residential unit is permitted on that plot. Some agricultural land cannot be built on without conversion.
 - **Check for a building line / road reserve** — The RDA (Road Development Authority) may hold a reserve over part of the plot, which reduces your buildable area.
-- **Check flood risk** — Walk the site after heavy rain if you can. Ask neighbours. See [[Architect]] — a flood-prone plot may need the house levelled up, which costs real money.
+- **Check flood risk** — Walk the site after heavy rain if you can. Ask neighbours. See [[architect]] — a flood-prone plot may need the house levelled up, which costs real money.
 - **Check access** — Is there a legal right of way (*droit de passage*) to the plot, and is it registered? Verbal access agreements are worthless.
-- **Check utilities are reachable** — How far is the nearest CEB pole and CWA main? Long connections are charged to you. See [[CEB]] and [[CWA]].
+- **Check utilities are reachable** — How far is the nearest CEB pole and CWA main? Long connections are charged to you. See [[ceb]] and [[cwa]].
 
 ## 2. The Notary (Notaire)
 
@@ -36,7 +37,7 @@ Engage a **sworn land surveyor** (*arpenteur*) to:
 - Physically peg the boundaries on site.
 - Confirm the plot on the ground matches the plot on the title — discrepancies between deed area and actual area are frequent.
 
-You will need the survey plan for the [[permit]] application and for [[CWA]].
+You will need the survey plan for the [[permit]] application and for [[cwa]].
 
 ## 4. Morcellement / Excision
 
@@ -59,7 +60,7 @@ A **soil investigation / bearing capacity test** tells your structural engineer 
 | Item | Notes |
 | --- | --- |
 | Purchase price | |
-| Registration duty | 5% — but first-time buyers are exempt on the first Rs 5 million. See [[MRA]] |
+| Registration duty | 5% — but first-time buyers are exempt on the first Rs 5 million. See [[mra]] |
 | Notarial fees | Ask for a written quote |
 | Land surveyor | Survey plan + pegging |
 | Soil test | If required |
@@ -78,7 +79,7 @@ A **soil investigation / bearing capacity test** tells your structural engineer 
 - [ ] Excision or morcellement complete (if buying a portion)
 - [ ] Soil test done (if first floor planned or ground is questionable)
 - [ ] Deed of sale registered and transcribed
-- [ ] Applied for Home Ownership Refund Scheme if eligible — see [[MRA]]
+- [ ] Applied for Home Ownership Refund Scheme if eligible — see [[mra]]
 
 ## ⚠️ Important Note
 

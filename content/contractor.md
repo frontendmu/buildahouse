@@ -1,5 +1,6 @@
 ---
 title: Choosing a Contractor
+description: Comparing quotations properly, the contract clauses that matter, payment milestones and retention.
 phase: 4
 order: 40
 tags: contractor, contract, construction
@@ -12,7 +13,7 @@ This is where most money is lost and most disputes start. Take longer here than 
 
 ## 1. Keep the Architect and Contractor Separate
 
-As stated in [[Architect]]: **do not hire one party to both design and build.** Your architect's job includes checking the contractor's work on your behalf. That check is worthless if they are the same person or business.
+As stated in [[architect]]: **do not hire one party to both design and build.** Your architect's job includes checking the contractor's work on your behalf. That check is worthless if they are the same person or business.
 
 ## 2. Finding Candidates
 
@@ -56,7 +57,7 @@ Write down explicitly whether the price includes:
 - [ ] Plumbing and electrical rough-in (and whether fittings are included)
 - [ ] Boundary wall and gate
 - [ ] Water tank, pump, and plumbing to them
-- [ ] Septic tank / absorption pit, or sewer connection — see [[WMA]]
+- [ ] Septic tank / absorption pit, or sewer connection — see [[wma]]
 - [ ] Driveway and external paving
 - [ ] Making good and cleaning at handover
 

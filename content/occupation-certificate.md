@@ -1,5 +1,6 @@
 ---
 title: After Completion
+description: The compliance and occupation certificates, municipal records, insurance, and claiming refunds.
 phase: 7
 order: 70
 tags: legal, occupation-certificate, compliance
@@ -47,9 +48,9 @@ This is **two steps, not one**, and there is a deadline between them that catche
 
 Most utilities require the BLP, and some require the Occupation Certificate.
 
-- [ ] CEB electricity connected — see [[CEB]]
-- [ ] CWA water connected — see [[CWA]]
-- [ ] Wastewater: sewer connected or septic tank commissioned — see [[WMA]]
+- [ ] CEB electricity connected — see [[ceb]]
+- [ ] CWA water connected — see [[cwa]]
+- [ ] Wastewater: sewer connected or septic tank commissioned — see [[wma]]
 - [ ] Internet and telephone installed — see [[telecom]]
 
 ## 3. Municipal / District Council Records
@@ -70,7 +71,7 @@ Most utilities require the BLP, and some require the Occupation Certificate.
 
 Do not leave money unclaimed. Several schemes are claimed **after** completion and have deadlines.
 
-- [ ] VAT refund on construction of a residential building applied for — see [[MRA]]
+- [ ] VAT refund on construction of a residential building applied for — see [[mra]]
 - [ ] Home loan refund / repayment scheme claimed if eligible
 - [ ] Roof slab or building materials grant finalised if applicable
 - [ ] All invoices, receipts, and the contractor's VAT invoices kept — **these claims are refused without documentary proof**

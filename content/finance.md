@@ -1,5 +1,6 @@
 ---
 title: Financing Your House
+description: Building a real budget, loan pre-approval, comparing lenders, and how tranche releases work.
 phase: 2
 order: 20
 tags: finance, loan, insurance
@@ -17,10 +18,10 @@ Your total project cost is not just the construction cost. Budget for:
 | Category | Includes |
 | --- | --- |
 | Land | Purchase, notary, registration duty, survey, soil test — see [[land]] |
-| Professional fees | Architect, structural engineer, quantity surveyor — see [[Architect]] |
+| Professional fees | Architect, structural engineer, quantity surveyor — see [[architect]] |
 | Permits | BLP fees, clearances — see [[permit]] |
 | Construction | Structure, roof, walls, screed, plaster — see [[construction-phases]] |
-| Utilities connection | CEB, CWA, WMA, fibre — see [[CEB]], [[CWA]], [[WMA]], [[telecom]] |
+| Utilities connection | CEB, CWA, WMA, fibre — see [[ceb]], [[cwa]], [[wma]], [[telecom]] |
 | Finishes | Tiles, doors, windows, paint, kitchen, sanitary ware |
 | Insurance | Contractor All Risks during build, fire/home insurance after |
 | Boundary wall, gate, driveway, landscaping | Almost always forgotten in the first budget |
@@ -72,9 +73,9 @@ Consequences you must plan for:
 
 ## 5. Government Schemes and Refunds
 
-Several schemes can return significant money to you — but **most have conditions you must satisfy before or during the build, not after.** Read [[MRA]] before your architect finalises the plans, because floor area and property value limits affect eligibility.
+Several schemes can return significant money to you — but **most have conditions you must satisfy before or during the build, not after.** Read [[mra]] before your architect finalises the plans, because floor area and property value limits affect eligibility.
 
-As checked on **27 July 2026** — see [[MRA]] for the detail and sources:
+As checked on **27 July 2026** — see [[mra]] for the detail and sources:
 
 | Scheme | Status | Benefit |
 | --- | --- | --- |
@@ -87,7 +88,7 @@ As checked on **27 July 2026** — see [[MRA]] for the detail and sources:
 
 🚨 **Do not budget for the VAT refund on a house you are starting now.** The qualifying construction window ended 30 June 2025. Plenty of advice online still tells Mauritians to expect up to Rs 300,000 back and to keep the house under 1,800 ft² to qualify — following that today means designing to a constraint that buys you nothing. Confirm the current position with the MRA before you plan around any refund.
 
-⚠️ **These schemes change with each annual Budget.** Treat every figure in [[MRA]] as needing confirmation against current MRA and government sources before you commit money on the strength of it.
+⚠️ **These schemes change with each annual Budget.** Treat every figure in [[mra]] as needing confirmation against current MRA and government sources before you commit money on the strength of it.
 
 ## 6. Insurance
 
@@ -104,7 +105,7 @@ As checked on **27 July 2026** — see [[MRA]] for the detail and sources:
 - [ ] At least three lenders compared on rate, fees, and penalties in writing
 - [ ] Tranche release schedule understood and aligned with the contractor's payment schedule
 - [ ] Cash available for the first construction stage before the first tranche
-- [ ] Eligibility checked for every scheme in [[MRA]] before plans are finalised
+- [ ] Eligibility checked for every scheme in [[mra]] before plans are finalised
 - [ ] Confirmed with the MRA which schemes are **currently open** — not relying on older online advice
 - [ ] Utility connection costs quoted for your specific site, including CWA's Rs 2,700 and a CEB quotation
 - [ ] Contractor's CAR, public liability, and workmen's compensation cover verified

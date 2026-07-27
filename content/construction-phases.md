@@ -1,5 +1,6 @@
 ---
 title: The Construction Phases
+description: Stage by stage on site, and what to check at each one before it is covered in concrete.
 phase: 5
 order: 50
 tags: construction, site, inspection
@@ -33,7 +34,7 @@ The building is marked out on the ground and foundation trenches are dug.
 - [ ] Orientation is as designed
 - [ ] Excavation depth matches the engineer's drawings
 - [ ] Trenches are on firm ground, not loose fill
-- [ ] Levels correct — including any raising of the house for flood risk, per [[Architect]]
+- [ ] Levels correct — including any raising of the house for flood risk, per [[architect]]
 
 ## 2. Foundation
 
@@ -69,7 +70,7 @@ Footings, reinforcement, and concrete.
 
 ## 5. Roof Slab Casting
 
-The biggest single pour of the project, and a milestone with real consequences — the roof slab grant in [[MRA]] relates to this stage.
+The biggest single pour of the project, and a milestone with real consequences — the roof slab grant in [[mra]] relates to this stage.
 
 **Check before the pour:**
 - [ ] Formwork and props adequate and properly supported — slab formwork failure during a pour is a serious safety event
@@ -90,11 +91,11 @@ Pipes and conduits are chased into walls and slabs before plastering.
 
 **Check before plastering closes it all in:**
 - [ ] Plumbing pressure-tested for leaks
-- [ ] Drainage falls correct, and connected to the septic tank or sewer per [[WMA]]
+- [ ] Drainage falls correct, and connected to the septic tank or sewer per [[wma]]
 - [ ] **Socket, switch, and light positions match the agreed electrical layout** — walk the house room by room and confirm each one at its actual height and position. Changes are free now and expensive later.
 - [ ] Provision for water heater, air conditioning units, and outdoor points
 - [ ] Data and TV conduits run, kept separate from power — see [[telecom]]
-- [ ] Provision for future solar panels if planned — see [[Architect]]
+- [ ] Provision for future solar panels if planned — see [[architect]]
 - [ ] Earthing arrangement in place, as CEB will require
 - [ ] **Photograph every wall and ceiling before plastering**, with something in shot for scale
 

@@ -1,5 +1,6 @@
 ---
 title: Government Schemes, Refunds and Grants
+description: Which government schemes, refunds and grants are actually open — and which have quietly expired.
 phase: 2
 order: 21
 tags: finance, mra, schemes
@@ -94,7 +95,7 @@ A refund of VAT on the construction of a residential building, or the purchase o
 
 Two things follow for anyone planning a build today:
 1. **Do not include this Rs 300,000 in your budget** — see [[finance]].
-2. **Do not let anyone design your house to 1,800 ft² for VAT reasons alone.** That constraint no longer buys you anything unless the scheme reopens. Discuss it with your architect — see [[Architect]].
+2. **Do not let anyone design your house to 1,800 ft² for VAT reasons alone.** That constraint no longer buys you anything unless the scheme reopens. Discuss it with your architect — see [[architect]].
 
 ⚠️ **[VERIFY] before each release** — if a Budget reopens or replaces this scheme, the floor area limit becomes a genuine design constraint again and this page must be updated immediately.
 
@@ -127,4 +128,4 @@ Source: [Ministry of Housing and Lands — roof slab and building materials gran
 
 ## ⚠️ Important Note
 
-🚨 **Check eligibility conditions before your architect finalises the plans, not after.** Several schemes turn on floor area, property value, or income — limits you cannot retrofit once the plans are approved and the house is built. See [[Architect]] and [[finance]].
+🚨 **Check eligibility conditions before your architect finalises the plans, not after.** Several schemes turn on floor area, property value, or income — limits you cannot retrofit once the plans are approved and the house is built. See [[architect]] and [[finance]].

@@ -1,5 +1,6 @@
 ---
 title: WMA — Wastewater
+description: Sewer or septic tank — the question your architect needs answered before finalising plans.
 phase: 6
 order: 62
 tags: utilities, wastewater
@@ -29,7 +30,7 @@ Documents commonly required for a new sewer connection application:
 - Building and Land Use Permit — see [[permit]]
 - Application form and applicable fee
 
-⚠️ **[VERIFY] — unconfirmed.** The document list above is inferred from what other Mauritian utilities require ([[CWA]], [[CEB]]), **not** from a WMA source. I could not reach a working WMA website to confirm the documents, fees, or application form. **Contact the WMA directly** before relying on this list, and ask your architect — they deal with this routinely.
+⚠️ **[VERIFY] — unconfirmed.** The document list above is inferred from what other Mauritian utilities require ([[cwa]], [[ceb]]), **not** from a WMA source. I could not reach a working WMA website to confirm the documents, fees, or application form. **Contact the WMA directly** before relying on this list, and ask your architect — they deal with this routinely.
 
 The BLP guide does confirm that where a utility provider does not submit its clearance to the local authority within 5 days of a permit application, it is treated as having no objection. See [[permit]].
 

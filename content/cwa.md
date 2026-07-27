@@ -1,9 +1,10 @@
 ---
 title: CWA — Water
+description: Documents and the real total fee for a new domestic water connection.
 phase: 6
 order: 61
 tags: utilities, water
-lastVerified: 2025-02-28
+lastVerified: 2026-07-27
 ---
 
 ## CWA - Domestic New Supply
