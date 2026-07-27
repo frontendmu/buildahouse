@@ -20,7 +20,9 @@ As stated in [[Architect]]: **do not hire one party to both design and build.** 
 - Ask people who have recently built. Visit the houses.
 - **Visit an active site** of each candidate. Look at how it is organised: is steel stored off the ground, is the site tidy, are workers wearing basic protection?
 - **Visit a house they finished 3+ years ago.** New work always looks fine. Cracks, leaks, and bad screed show up later.
-- Ask each candidate directly: are you registered with the **Construction Industry Development Board (CIDB)**, and at what grade? Confirm the registration is current. **[VERIFY]** the current CIDB requirements for residential work.
+- Ask each candidate directly: are you registered with the **Construction Industry Development Board (CIDB)**, and at what grade? Ask to see the certificate and check it is current.
+
+  ⚠️ **[VERIFY]** — I could not reach the CIDB's website to confirm whether registration is **mandatory** for residential work of your size, what the grades mean, or whether a public register exists for checking a contractor yourself. Ask the CIDB directly, or ask your architect — they will know local practice. Treat "registered with CIDB" as a claim to verify, not a credential to take on trust.
 
 ## 3. Get Comparable Quotations
 
@@ -99,7 +101,7 @@ Rules to hold to:
 
 ## 8. Retention
 
-Hold back a **retention** — commonly around 5–10% of each payment — released only after the defects liability period ends and all snags are fixed. **[VERIFY]** typical local percentages with your architect or quantity surveyor.
+Hold back a **retention** — commonly around 5–10% of each payment — released only after the defects liability period ends and all snags are fixed. **[VERIFY]** — the 5–10% range is general construction practice, not a published Mauritian standard; confirm what is normal locally with your architect or quantity surveyor before writing a figure into the contract.
 
 This is the only real leverage you have to get defects fixed after the contractor has left site. Do not waive it.
 
@@ -114,7 +116,7 @@ This is the only real leverage you have to get defects fixed after the contracto
 ## 10. Checklist
 
 - [ ] Architect and contractor are separate parties
-- [ ] CIDB registration verified and current
+- [ ] CIDB registration certificate seen, current, and requirement confirmed for your build size
 - [ ] Completed site from 3+ years ago visited
 - [ ] Active site visited
 - [ ] Three itemised quotations on identical documents obtained and compared

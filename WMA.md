@@ -29,7 +29,9 @@ Documents commonly required for a new sewer connection application:
 - Building and Land Use Permit — see [[permit]]
 - Application form and applicable fee
 
-⚠️ **[VERIFY]** — Exact document list, current fees, and the application form should be confirmed against the WMA's own published requirements before you apply. Contact the WMA or check the official WMA pages on the government portal.
+⚠️ **[VERIFY] — unconfirmed.** The document list above is inferred from what other Mauritian utilities require ([[CWA]], [[CEB]]), **not** from a WMA source. I could not reach a working WMA website to confirm the documents, fees, or application form. **Contact the WMA directly** before relying on this list, and ask your architect — they deal with this routinely.
+
+The BLP guide does confirm that where a utility provider does not submit its clearance to the local authority within 5 days of a permit application, it is treated as having no objection. See [[permit]].
 
 ## 3. On-Site Disposal — Septic Tank and Absorption Pit
 

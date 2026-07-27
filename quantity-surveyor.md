@@ -37,7 +37,7 @@ Without a BOQ, you are negotiating every extra from a position of no information
 
 Construction cost in Mauritius is commonly discussed as a **rate per square foot of built area**, varying widely with the level of finish — structure only, standard finish, or high-end.
 
-⚠️ **[VERIFY] — Current Rs/ft² benchmarks are deliberately not stated here.** Material prices move with import costs and the exchange rate, and a stale figure on this site would mislead someone's entire budget. Get current rates from:
+⚠️ **[VERIFY] — Current Rs/ft² benchmarks are deliberately not stated here, and I was unable to find an authoritative published source for them.** There is no official Mauritian body publishing residential construction rates per square foot; the figures circulating online are anecdotal and age quickly. Material prices also move with import costs and the exchange rate, so a stale figure here would mislead someone's entire budget. Get current rates from:
 - Two or three quantity surveyors or architects, for your specific finish level
 - Recent itemised quotations from contractors on your own plans
 - People who have completed a comparable house **in the last 12 months**

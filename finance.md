@@ -74,14 +74,20 @@ Consequences you must plan for:
 
 Several schemes can return significant money to you — but **most have conditions you must satisfy before or during the build, not after.** Read [[MRA]] before your architect finalises the plans, because floor area and property value limits affect eligibility.
 
-Schemes to check your eligibility for:
-- Home Ownership Refund Scheme
-- First-time buyer registration duty exemption
-- Loan repayment / housing loan relief schemes
-- VAT refund on construction of a residential building
-- Roof slab grant / building materials grant (income-tested)
+As checked on **27 July 2026** — see [[MRA]] for the detail and sources:
 
-⚠️ **These schemes change with each annual Budget.** Amounts, ceilings, and end dates in [[MRA]] must be confirmed against current MRA and government sources before you rely on them.
+| Scheme | Status | Benefit |
+| --- | --- | --- |
+| Housing Loan Relief Scheme | ✅ **Open** to June 2027 | Rs 667/month, falling to Rs 333/month |
+| Roof slab / building materials grant | ✅ **Open**, income-tested | up to Rs 100,000 |
+| First-time buyer registration duty exemption | ⚠️ verify ceiling | 5% of first Rs 5m |
+| VAT refund on residential building | ❌ **Closed to new construction** | — |
+| Home Ownership Refund Scheme | ⚠️ likely expired | — |
+| Home Loan Payment Scheme | ⚠️ likely expired | — |
+
+🚨 **Do not budget for the VAT refund on a house you are starting now.** The qualifying construction window ended 30 June 2025. Plenty of advice online still tells Mauritians to expect up to Rs 300,000 back and to keep the house under 1,800 ft² to qualify — following that today means designing to a constraint that buys you nothing. Confirm the current position with the MRA before you plan around any refund.
+
+⚠️ **These schemes change with each annual Budget.** Treat every figure in [[MRA]] as needing confirmation against current MRA and government sources before you commit money on the strength of it.
 
 ## 6. Insurance
 
@@ -99,5 +105,7 @@ Schemes to check your eligibility for:
 - [ ] Tranche release schedule understood and aligned with the contractor's payment schedule
 - [ ] Cash available for the first construction stage before the first tranche
 - [ ] Eligibility checked for every scheme in [[MRA]] before plans are finalised
+- [ ] Confirmed with the MRA which schemes are **currently open** — not relying on older online advice
+- [ ] Utility connection costs quoted for your specific site, including CWA's Rs 2,700 and a CEB quotation
 - [ ] Contractor's CAR, public liability, and workmen's compensation cover verified
 - [ ] Home / fire insurance arranged for completion
